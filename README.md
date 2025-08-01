@@ -28,3 +28,5 @@ This project is not only useful for learning the basics of AI and NLP but also f
 
 The key advantages of this AI chatbot include its ability to operate without human intervention for simple FAQs, its ease of implementation, and its educational value for beginners in AI and Python. While the chatbot is limited to predefined responses and cannot handle complex queries or learn from new conversations, it is an excellent demonstration of rule-based NLP systems.
 
+OUTPUT:<img width="1255" height="407" alt="Image" src="https://github.com/user-attachments/assets/00cdc9b2-8021-45c2-bf18-91567de0cf7d" />
+
